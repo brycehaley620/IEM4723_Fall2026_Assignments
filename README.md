@@ -20,9 +20,12 @@ This work is on the `assignment1-work` branch and is intended for the upstream c
 - [Question 3 coefficients](assignment1/layering/data/logistic_regression_coefficients.csv)
 - [Branch history screenshot](branch-history.png)
 - [Additional branch history screenshot](branch-history-2.png)
+- [GitHub Desktop history screenshot](branch-history-desktop.png)
 
 ## Branch History
 
 ![Branch history network graph](branch-history.png)
 
 ![Additional branch history network graph](branch-history-2.png)
+
+![GitHub Desktop branch history](branch-history-desktop.png)
