@@ -18,3 +18,7 @@ docker build -t logistic_regression_layered:latest .
 docker run --rm --volume "${PWD}/data:/home/iem4723/data" logistic_regression_layered:latest
 
 # Question 4
+
+cd ../port_listening
+docker build -t simple_file_server:latest .
+docker run --rm --publish 3333:8000 simple_file_server:latest
